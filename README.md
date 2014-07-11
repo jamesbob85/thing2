@@ -1,9 +1,8 @@
-**Coming Out Simulator 2014**    
-a half-true game about half-truths.
-
-**Play it [on Itch.io](http://ncase.itch.io/coming-out-simulator-2014)!**
+I saw [Coming Out Simulator 2014](http://ncase.itch.io/coming-out-simulator-2014) when it was posted to Hacker News. I thought that it was excellent and it would be fun to play with it.
 
 ---
+
+Below is information from the origianl:
 
 Be careful what you say. In this conversation simulator, everyone will
 remember every dialogue option you pick, and your choices drive the story.
