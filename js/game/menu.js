@@ -28,7 +28,6 @@ function Start(){
 	});
 
 }
-
 function SipCoffee(message){
 	Show("nicky","coffee_nicky_drink");
 	Show("cup",null);
@@ -99,7 +98,6 @@ function Play(message){
 	});
 
 }
-
 function Play_2(){
 
 	if(!$.asked_about){
@@ -195,11 +193,10 @@ function Play_3(){
 }
 
 function Credits(message){
-
 	$.asked_credits = true;
 	
 	if($.asked_about){
-		SipCoffee(message);
+		SipCoffee("So who ARE you a dog?");
 	}else{
 		SipCoffee("Who are you?");
 	}
@@ -286,7 +283,7 @@ function About(message){
 		Choose({
 			"Bad puns aside, can we play now?": Play,
 			"So who ARE you? (Credits)": function(){
-				Credits("So who ARE you?");
+				Credits();
 			}
 		});
 	}
