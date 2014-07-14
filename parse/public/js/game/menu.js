@@ -14,7 +14,9 @@ function Start(){
 
 	N("<b>This is thing2</b>");
 	N("A game, maybe.. kinda");
-	N("It's going to be about a boo, I guess");
+	N("How are you today boy?");
+    N("I've not changed anything else yet, so don't click it!");
+    N("you and your stupid face.");
 	N("What would you like to do now?");
 
 	Choose({
