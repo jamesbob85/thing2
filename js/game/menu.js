@@ -4,17 +4,17 @@ function Start(){
 	
 	/////// SET UP SCENE ////////
 
-	Show("background","coffeehouse");
-	Show("cup","cup_steam",{x:44,y:359});
-	Show("nicky","coffee_nicky_still");
+	//Show("background","coffeehouse");
+	//Show("cup","cup_steam",{x:44,y:359});
+	//Show("nicky","coffee_nicky_still");
 
-	PlaySound("bg","coffeehouse",{loop:-1, volume:0.7});
+	//PlaySound("bg","coffeehouse",{loop:-1, volume:0.7});
 
 	//////////////////////////////
 
-	N("<b>COMING OUT SIMULATOR 2014</b>");
-	N("A half-true game about half-truths.");
-	N("Hey there, player. Welcome to this game, I guess.");
+	N("<b>This is thing2</b>");
+	N("A game, maybe.. kinda");
+	N("It's going to be about a boo, I guess");
 	N("What would you like to do now?");
 
 	Choose({
