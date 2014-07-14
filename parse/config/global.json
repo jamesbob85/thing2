@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "thing2"
+        }, 
+        "thing2": {
+            "applicationId": "ekYhjfHh0kXh4AVrCT6niv877XFIrUCTU2QX9j2H", 
+            "masterKey": "fNHgB1ObUS800EfX2XVxXHzuqtemjNy2TMI71epa"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
