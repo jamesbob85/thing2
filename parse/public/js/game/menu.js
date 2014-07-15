@@ -14,9 +14,8 @@ function Start(){
 
 	N("<b>This is thing2</b>");
 	N("A game, maybe.. kinda");
-	N("How are you today boy?");
-    N("I've not changed anything else yet, so don't click it!");
-    N("you and your stupid face.");
+	N("I guess the point is that it might be");
+    N("Really, right now I'm just fucking around");
 	N("What would you like to do now?");
 
 	Choose({
@@ -30,18 +29,18 @@ function Start(){
 	});
 
 }
-function SipCoffee(message){
+/*function SipCoffee(message){
 	Show("nicky","coffee_nicky_drink");
 	Show("cup",null);
 	PlaySound("sfx","coffee_sip");
 	p(message);
 	Show("nicky","coffee_nicky_still");
 	Show("cup","cup_steam");
-}
+}*/
 
 function Play(message){
 	
-	SipCoffee(message);
+	p(message);
 
 	// Asked neither
 	if(!$.asked_about && !$.asked_credits){

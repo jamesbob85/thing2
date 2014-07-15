@@ -2,7 +2,6 @@ body{
 	background: #000;
 	overflow: hidden;
 	margin: 0;
-
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
@@ -16,7 +15,6 @@ body{
 	background: #000;
 	width:360px;
 	height:640px;
-
 	position: absolute;
 	margin:auto;
 	top:0; bottom:0; left:0; right:0;
